@@ -1,0 +1,22 @@
+{
+  "cakes": [
+    {
+      "id": 1,
+      "name": "brownie",
+      "desc": "chocolate cake",
+      "cost": 10
+    },
+    {
+      "id": 2,
+      "name": "cheesecake",
+      "desc": "cheese cake",
+      "cost": 20
+    },
+    {
+      "id": 3,
+      "name": "carrot-cake",
+      "desc": "carrot cake",
+      "cost": 30
+    }
+  ]
+}
